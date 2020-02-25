@@ -1,13 +1,13 @@
-  {
+{
   "name": "react-hooks-videoplayer-start",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
     "react-player": "^1.15.2",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^3.4.0",
     "styled-components": "^4.4.1"
   },
   "scripts": {
@@ -25,5 +25,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://github.com/lancemahon/react_videoplayer"
+  "homepage": "https://lancemahon.github.io/react_videoplayer"
 }
